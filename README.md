@@ -2,5 +2,6 @@
 Sebuah aplikasi dengan fitur login
 
 Alur fitur login
-  1. 
-  lllll
+  1. Masukkan email dan password 
+  2. Memvalidasi masukkan 
+  3. Menampilkan halaman beranda
